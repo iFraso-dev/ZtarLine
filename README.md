@@ -1,8 +1,11 @@
-![image](https://img.shields.io/badge/php-8.1.2-blue)
-![image](https://img.shields.io/badge/Ubuntu-22.04.1%20LTS-blue)
-![image](https://img.shields.io/badge/Zabbix-6.2.6-blue)
-![image](https://img.shields.io/badge/Apache-2.4.52-blue)
-![image](https://img.shields.io/badge/Mysql-8.0.31-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/php-8.1.2-blue" />
+  <img src="https://img.shields.io/badge/Ubuntu-22.04.1%20LTS-blue" />
+  <img src="https://img.shields.io/badge/Zabbix-6.2.6-blue" />
+  <img src="https://img.shields.io/badge/Apache-2.4.52-blue" />
+  <img src="https://img.shields.io/badge/Mysql-8.0.31-blue" />
+</p>
+
 
 
 <h1 align="center">Hi 👋! My name is Yury.</h1>
