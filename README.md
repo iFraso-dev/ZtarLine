@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://static.requarks.io/logo/wikijs-full-darktheme.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="http://fraso777.ru/data/Ztar-Line-logo.png">
   <img alt="Wiki.js" src="https://static.requarks.io/logo/wikijs-full.svg" width="600">
 </picture>
 
