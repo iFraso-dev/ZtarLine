@@ -13,7 +13,12 @@
   <img src="https://img.shields.io/badge/Mysql-8.0.X-blue" />
 </p>
 </div>
-- [Contribute](#test)
+
+<p align="center">Язык (Language)</p>
+
++ [RUS](#RUS) 
++ [EN](#EN)
+
 <br>
 1
 <br>
@@ -146,6 +151,6 @@
 1
 1
 
-<h2 align="center">test</h2>
+<h2 align="center">RUS</h2>
 
 
