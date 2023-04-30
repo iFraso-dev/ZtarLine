@@ -1,8 +1,8 @@
 <h1 align="center">Мониторинг сигнализации Starline</h1>
-
 <p clear="both">
 <div align="center">
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://fraso777.ru/data/Ztar-Line-logo.png">
   <img alt="ZtarLine" src="http://fraso777.ru/data/Ztar-Line-logo.png" width="600">
 </picture>
 <p align="center">
@@ -14,143 +14,10 @@
 </p>
 </div>
 
-<p align="center">Язык (Language)</p>
-
-+ [RUS](#RUS) 
++ [Требования](#Требования) 
 + [EN](#EN)
 
-<br>
-1
-<br>
-1
-<br>
-1
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
-1
-<br>
 
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-
-<h2 align="center">RUS</h2>
+# Требования
 
 
