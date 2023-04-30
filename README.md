@@ -6,7 +6,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-7.2.5-blue" />
+  <img src="https://img.shields.io/badge/PHP-7.2.5 or later-blue" />
   <img src="https://img.shields.io/badge/Ubuntu_Server-18.04 or later-blue" />
   <img src="https://img.shields.io/badge/Zabbix-6.0-blue" />
   <img src="https://img.shields.io/badge/Apache-1.3.12 or later-blue" />
