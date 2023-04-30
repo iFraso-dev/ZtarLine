@@ -15,14 +15,20 @@
 </div>
 
 <h3 align="center">Скрипт ZstarLine нужен для интеграции автомобильной сигнализации Starline в систему мониторинга Zabbix как для личного использования, так и для коммерческого.</h3>
-<h4 align="center">Данный скрипт тестируется на OC Ubuntu Server 22.04.2 LTS, PHP 8.1.2, Apache 2.4.52, MySQL 8.0.32</h4>
+<h4 align="center">Данный скрипт тестируется на OC Ubuntu Server 22.04.2 LTS, PHP 8.1.2, Apache 2.4.52, MySQL 8.0.32</h4></br></br></br></br></br>
 
-+ [Системные требования](#Системные требования) 
+
+
+
++ [Системные требования](#Системные-требования) 
 + [Установка](#Установка) 
 
+</br></br></br>
+
+
 # Системные требования
-Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции ->[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank"}
-<a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
+Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -><a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
+</br></br></br>
 # Установка
 
 
