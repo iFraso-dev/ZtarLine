@@ -1,5 +1,5 @@
 
-<h1 align="center">Мониторинг сигналимзации Starline</h1>
+<h1 align="center">Мониторинг сигнализации Starline</h1>
 <br clear="both">
 <div align="center">
 <picture>
