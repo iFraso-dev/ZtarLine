@@ -6,11 +6,11 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.0.x-blue" />
+  <img src="https://img.shields.io/badge/PHP-7.2.5 or later, 8.0-8.2-blue" />
   <img src="https://img.shields.io/badge/Ubuntu_Server-18.04 or later-blue" />
-  <img src="https://img.shields.io/badge/Zabbix-6.2.6-blue" />
-  <img src="https://img.shields.io/badge/Apache-2.4.52-blue" />
-  <img src="https://img.shields.io/badge/Mysql-8.0.31-blue" />
+  <img src="https://img.shields.io/badge/Zabbix-6.0-blue" />
+  <img src="https://img.shields.io/badge/Apache-1.3.12 or later-blue" />
+  <img src="https://img.shields.io/badge/Mysql-8.0.X-blue" />
 </p>
 
 ##### A modern, lightweight and powerful wiki app built on NodeJS
