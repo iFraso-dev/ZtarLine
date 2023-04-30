@@ -6,8 +6,8 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/php-8.1.2-blue" />
-  <img src="https://img.shields.io/badge/Ubuntu_Server-22.04.1%20LTS-blue" />
+  <img src="https://img.shields.io/badge/PHP-8.0.x-blue" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-18.04 or later-blue" />
   <img src="https://img.shields.io/badge/Zabbix-6.2.6-blue" />
   <img src="https://img.shields.io/badge/Apache-2.4.52-blue" />
   <img src="https://img.shields.io/badge/Mysql-8.0.31-blue" />
