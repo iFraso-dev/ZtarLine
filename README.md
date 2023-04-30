@@ -1,7 +1,6 @@
 
 <h1 align="center">Мониторинг сигналимзации Starline</h1>
 <br clear="both">
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://fraso777.ru/data/Ztar-Line-logo.png">
