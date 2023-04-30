@@ -21,7 +21,8 @@
 + [Установка](#Установка) 
 
 # Системные требования
-Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -> <a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
+Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции ->[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank"}
+<a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
 # Установка
 
 
