@@ -13,21 +13,9 @@
   <img src="https://img.shields.io/badge/Mysql-8.0.X-blue" />
 </p>
 
-### Мониторинг сигналимзации Starline
+### <h1 align="center">Мониторинг сигналимзации Starline</h1>
 ###
 </div>
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋! My name is Yury.</h1>
-
-###
-
-
 <br clear="both">
 
 <div align="center">
