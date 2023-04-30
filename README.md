@@ -1,4 +1,3 @@
-
 <h1 align="center">Мониторинг сигнализации Starline</h1>
 <br clear="both">
 <div align="center">
@@ -13,23 +12,6 @@
   <img src="https://img.shields.io/badge/Apache-1.3.12 or later-blue" />
   <img src="https://img.shields.io/badge/Mysql-8.0.X-blue" />
 </p>
-</div>
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </div>
 
 
