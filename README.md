@@ -42,7 +42,7 @@ sudo git clone https://github.com/Fraso777/ZtarLine.git
 ```
 cd ZtarLine/
 ```
-копируем файлы в директорию `/externalscripts` Zabbix[^1]
+копируем файлы в директорию `/externalscripts` Zabbix[^?]
 ```
 sudo cp ztarline.php user_data.php /usr/lib/zabbix/externalscripts
 ```
@@ -67,4 +67,4 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 
 
-[^1]: My reference.
+[^?]: My reference.
