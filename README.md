@@ -22,6 +22,7 @@
 
 + [Системные требования](#Системные-требования) 
 + [Установка](#Установка) 
++ [Настройка](#Настройка) 
 
 </br></br></br>
 
@@ -31,5 +32,33 @@
 </br></br></br>
 
 # Установка
+<sub>Данное руководство для ubuntu ОС</sub>
 
+Скачиваем скрипт в домашнюю директорию ubuntu
+```
+sudo git clone https://github.com/Fraso777/ZtarLine.git
+```
+переходим в скаченную директорию
+```
+cd ZtarLine/
+```
+копируем файлы в директорию `/externalscripts` Zabbix[^1]
+```
+sudo cp ztarline.php user_data.php /usr/lib/zabbix/externalscripts
+```
+копируем дополнение с картами
+```
+sudo cp map_ztarline.php /usr/share/zabbix
+```
+меняем права доступа к файлам, измением владельца и группу
+```
+sudo chmod 755 /usr/lib/zabbix/externalscripts/ztarline.php
+sudo chown root:root /usr/lib/zabbix/externalscripts/ztarline.php
+sudo chmod 755 /usr/lib/zabbix/externalscripts/user_data.php
+sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
+sudo chmod 755 /usr/share/zabbix/map_ztarline.php
+sudo chown root:root /usr/share/zabbix/map_ztarline.php
+```
 
+# Настройка
+Переходим на страницу Zabbix 
