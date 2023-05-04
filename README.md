@@ -62,3 +62,9 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 # Настройка
 Переходим на страницу Zabbix 
+
+
+
+
+
+[^1]: My reference.
