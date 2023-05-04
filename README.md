@@ -42,7 +42,7 @@ sudo git clone https://github.com/Fraso777/ZtarLine.git
 ```
 cd ZtarLine/
 ```
-копируем файлы в директорию `/externalscripts` Zabbix[^?]
+копируем файлы в директорию `/externalscripts` Zabbix[^help]
 ```
 sudo cp ztarline.php user_data.php /usr/lib/zabbix/externalscripts
 ```
@@ -66,5 +66,5 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 
 
-
-[^?]: My reference.
+</br></br></br>
+[^help]: Для определения расположени директории `/externalscripts` используйте команду `find / -type d -iname externalscripts`. В ответ получите `/usr/lib/zabbix/externalscripts` или другое расположение директории.
