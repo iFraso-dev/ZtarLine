@@ -62,7 +62,9 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 ```
 
 # Настройка
+
 ## AppId и Secret
+
 Переходим на страницу Zabbix http://host-ip/zabbix
 
 <sub>URL-адрес по умолчанию для пользовательского интерфейса Zabbix при использовании веб-сервера Apache.</sub>
