@@ -65,6 +65,8 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 ## AppId и Secret
 
+Войдите в личный кабинет [My Starline](https://my.starline.ru/developer) в рздел [Разработчикам](https://my.starline.ru/developer). 
+
 Переходим на страницу Zabbix http://host-ip/zabbix
 
 <sub>URL-адрес по умолчанию для пользовательского интерфейса Zabbix при использовании веб-сервера Apache.</sub>
