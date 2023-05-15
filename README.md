@@ -65,7 +65,10 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 ## AppId и Secret
 
-Войдите в личный кабинет [My Starline](https://my.starline.ru/developer) в рздел [Разработчикам](https://my.starline.ru/developer). 
+Войдите в личный кабинет [My Starline](https://my.starline.ru/developer) в раздел [Разработчикам](https://my.starline.ru/developer). 
+Заполняете форму для получения AppId и Secret. Укажите цель полуения доступа к API (в нашем случае для интеграции в систему мониторинга).
+
+После одобрения заявки будет доступна функция.  
 
 Переходим на страницу Zabbix http://host-ip/zabbix
 
