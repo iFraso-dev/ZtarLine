@@ -36,6 +36,7 @@
       <li><a href="#Настройка">Настройка</a></li>
       <ul>
         <li><a href="#AppId-и-Secret">AppId и Secret</a></li>
+        <li><a href="#Настройка-Zabbx">Настройка Zabbx</a></li>
       </ul>
     </li>
   </ol>
@@ -87,6 +88,8 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 После одобрения заявки будет доступна функция.  
 
+
+## Настройка Zabbx
 Переходим на страницу Zabbix http://host-ip/zabbix [^2]
 
 Создаем "Узел сети"
