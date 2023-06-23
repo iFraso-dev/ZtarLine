@@ -45,7 +45,7 @@
 </br>
 
 # Системные требования
-Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -><a href="[https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements](https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B9-%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" target="_blank">Требования</a>
+Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -><a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements#примеры-конфигураций-оборудования" target="_blank">Требования</a>
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
 
