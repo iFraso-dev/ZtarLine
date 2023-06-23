@@ -35,7 +35,7 @@
       <li><a href="#Установка">Установка</a></li>
       <li><a href="#Настройка">Настройка</a></li>
       <ul>
-        <li><a href="#AppId-и-Secret">AppId и Secret</a></li>
+        <li><a href="#AppId-и-Secret-Starline">AppId и Secret Starline</a></li>
         <li><a href="#Настройка-Zabbx">Настройка Zabbx</a></li>
       </ul>
     </li>
@@ -81,7 +81,7 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 # Настройка
 
-## AppId и Secret
+## AppId и Secret Starline
 
 Войдите в личный кабинет [My Starline](https://my.starline.ru/developer) в раздел [Разработчикам](https://my.starline.ru/developer). 
 Заполняете форму для получения AppId и Secret. Укажите цель полуения доступа к API (в нашем случае для интеграции в систему мониторинга).
