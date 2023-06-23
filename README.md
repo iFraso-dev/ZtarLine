@@ -38,6 +38,7 @@
 
 # Системные требования
 Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -><a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
+<p align="right">(<a href="#readme-top">ВЕРХ</a>)</p>
 </br></br></br>
 
 # Установка
