@@ -58,7 +58,7 @@ sudo git clone https://github.com/Fraso777/ZtarLine.git
 ```
 cd ZtarLine/
 ```
-копируем файлы в директорию `/externalscripts` Zabbix[^help]
+копируем файлы в директорию `/externalscripts` Zabbix [^1]
 ```
 sudo cp ztarline.php user_data.php /usr/lib/zabbix/externalscripts
 ```
@@ -87,9 +87,7 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 
 После одобрения заявки будет доступна функция.  
 
-Переходим на страницу Zabbix http://host-ip/zabbix
-
-<sub>URL-адрес по умолчанию для пользовательского интерфейса Zabbix при использовании веб-сервера Apache.</sub>
+Переходим на страницу Zabbix http://host-ip/zabbix [^2]
 
 Создаем "Узел сети"
 
@@ -97,4 +95,5 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
 
-[^help]: Для определения расположени директории `/externalscripts` используйте команду `find / -type d -iname externalscripts`. В ответ получите `/usr/lib/zabbix/externalscripts` или другое расположение директории.
+[^1]: Для определения расположени директории `/externalscripts` используйте команду `find / -type d -iname externalscripts`. В ответ получите `/usr/lib/zabbix/externalscripts` или другое расположение директории.
+[^2]: URL-адрес по умолчанию для пользовательского интерфейса Zabbix при использовании веб-сервера Apache.
