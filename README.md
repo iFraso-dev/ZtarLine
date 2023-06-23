@@ -26,8 +26,6 @@
 *<h3 align="center">Скрипт ZstarLine нужен для интеграции автомобильной сигнализации Starline в систему мониторинга Zabbix как для личного использования, так и для коммерческого.</h3>*
 *<h4 align="center">Данный скрипт тестируется на OC Ubuntu Server 22.04.2 LTS, PHP 8.1.2, Apache 2.4.52, MySQL 8.0.32, Starline s96v2</h4>*</br></br></br></br></br>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <a name="readme-top"></a>
 <details>
@@ -42,14 +40,12 @@
     </li>
   </ol>
 </details>
-
-</br></br></br>
-
+</br>
 
 # Системные требования
 Данный скрипт работает на установленной системе мониторинга Zabbix начиная с 6 версии и выше. С требованиями к системе вы можете ознакомиться в официальной инструкции -><a href="https://www.zabbix.com/documentation/6.0/ru/manual/installation/requirements" target="_blank">Требования</a>
-<p align="right">(<a href="#readme-top">ВЕРХ</a>)</p>
-</br></br></br>
+<p align="right">(<a href="#readme-top">Вверх</a>)</p>
+</br>
 
 # Установка
 <sub>Данное руководство для Ubuntu ОС</sub>
@@ -79,6 +75,8 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 sudo chmod 755 /usr/share/zabbix/map_ztarline.php
 sudo chown root:root /usr/share/zabbix/map_ztarline.php
 ```
+<p align="right">(<a href="#readme-top">Вверх</a>)</p>
+</br>
 
 # Настройка
 
@@ -96,9 +94,7 @@ sudo chown root:root /usr/share/zabbix/map_ztarline.php
 Создаем "Узел сети"
 
 `Настройка -> Узлы сети -> Создать узел сети`
+<p align="right">(<a href="#readme-top">Вверх</a>)</p>
+</br>
 
-
-
-
-</br></br></br>
 [^help]: Для определения расположени директории `/externalscripts` используйте команду `find / -type d -iname externalscripts`. В ответ получите `/usr/lib/zabbix/externalscripts` или другое расположение директории.
