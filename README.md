@@ -24,7 +24,7 @@
 </div>
 
 *<h3 align="center">Скрипт ZstarLine нужен для интеграции автомобильной сигнализации Starline в систему мониторинга Zabbix как для личного использования, так и для коммерческого.</h3>*
-*<h4 align="center">Данный скрипт тестируется на <a href="https://releases.ubuntu.com/22.04.2/">OC Ubuntu Server 22.04.2 LTS</a>, PHP 8.1.2, Apache 2.4.52, MySQL 8.0.32, <a href="https://store.starline.ru/catalog/avtosignalizatsii/starline_s96_bt_2can_4lin_2sim_gsm/">Starline s96v2</a></h4>*
+*<h4 align="center">Данный скрипт тестируется на <a href="https://releases.ubuntu.com/22.04.2/">OC Ubuntu Server 22.04.2 LTS</a>, <a href="https://www.php.net/downloads.php#v8.1.20">PHP 8.1.2</a>, Apache 2.4.52, MySQL 8.0.32, <a href="https://store.starline.ru/catalog/avtosignalizatsii/starline_s96_bt_2can_4lin_2sim_gsm/">Starline s96v2</a></h4>*
 </br>
 
 <!-- TABLE OF CONTENTS -->
