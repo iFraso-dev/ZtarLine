@@ -30,7 +30,7 @@
 <!-- TABLE OF CONTENTS -->
 <a name="readme-top"></a>
 <details>
-  <summary>МЕНЮ</summary>
+  <summary><h1>МЕНЮ</h1></summary>
   <ol>
       <li><a href="#Системные-требования">Системные требования</a></li>
       <li><a href="#Установка">Установка</a></li>
