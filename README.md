@@ -102,6 +102,9 @@ sudo nano /usr/lib/zabbix/externalscripts/user_data.php
 Создаем "Узел сети"
 
 `Настройка -> Узлы сети -> Создать узел сети`
+
+задаем Имя узла сети и Группы узлов сети.
+
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
 
