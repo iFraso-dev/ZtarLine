@@ -78,9 +78,10 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 
 <picture>
   <img alt="ZtarLine" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/fFVp/jYhWuKFPQ" width="800">
+</picture>
+<picture>
   <img alt="ZtarLine" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/EgvV/SwFL3GH39" width="800">
 </picture>
-
 
 
 ## Настройка Zabbix
