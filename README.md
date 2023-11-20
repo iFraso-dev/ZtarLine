@@ -75,6 +75,7 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 После одобрения заявки будет доступен раздел "Разработчикам".
 
 Нажмите "Создать приложение" и в окне "Новое приложение" задайте "Имя приложения". Далее "СОХРАНИТЬ".
+
 <picture>
   <img alt="ZtarLine" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/W6iB/sgfcSLwR8" width="600">
 </picture>
