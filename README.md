@@ -55,10 +55,6 @@ cd ZtarLine/
 ```
 sudo cp ztarline.php user_data.php /usr/lib/zabbix/externalscripts
 ```
-копируем дополнение с картами
-```
-sudo cp map_ztarline.php /usr/share/zabbix
-```
 меняем права доступа к файлам, измением владельца и группу
 ```
 sudo chmod 755 /usr/lib/zabbix/externalscripts/ztarline.php
