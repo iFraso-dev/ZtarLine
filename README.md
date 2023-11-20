@@ -99,11 +99,7 @@ sudo nano /usr/lib/zabbix/externalscripts/user_data.php
 ## Настройка Zabbix
 Переходим на страницу Zabbix http://host-ip/zabbix [^2]
 
-Создаем "Узел сети"
-
-`Настройка -> Узлы сети -> Создать узел сети`
-
-задаем Имя узла сети и Группы узлов сети.
+Создаем "Группы узлов сети" c именем "MyDevice".
 
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
