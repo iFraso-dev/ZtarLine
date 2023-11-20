@@ -149,7 +149,7 @@ echo (",");
 echo ("\"obd_errors\":");
 echo ($resalt4);                //Get obd_errors
 echo (",");
-echo ("\"creator\":\"Fraso777\",\"link\":\"https://github.com/Fraso777/Starline_in_Zabbix\",\"contacts\":\"fraso1989@gmail.com\"");  //Get creator
+echo ("\"creator\":\"iFraso-dev\",\"link\":\"https://github.com/iFraso-dev/ZtarLine",\"contacts\":\"fraso1989@gmail.com\"");  //Get creator
 echo ("}")
 //
 
