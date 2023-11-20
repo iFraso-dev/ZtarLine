@@ -67,12 +67,13 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 sudo nano /usr/lib/zabbix/externalscripts/user_data.php
 ```
 укажите:
+```
 * $user_login = 'Your@email.com'; ⇒ Ваш логин от https://my.starline.ru
 * $user_pass = sha1('Your_password'); ⇒  Ваш пароль от https://my.starline.ru
 * $user_AppId = 'AppId'; ⇒ Ваш сгенерированный AppId в личном кабинете
 * $user_Secret = 'Your_generated_Secret'; ⇒ Ваш сгенерированный Secret в личном кабинете
 * $user_Secret_md5 = md5('Your_generated_Secret'); ⇒ Ваш сгенерированный Secret в личном кабинете
-
+```
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
 
