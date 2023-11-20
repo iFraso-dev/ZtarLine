@@ -61,8 +61,6 @@ sudo chmod 755 /usr/lib/zabbix/externalscripts/ztarline.php
 sudo chown root:root /usr/lib/zabbix/externalscripts/ztarline.php
 sudo chmod 755 /usr/lib/zabbix/externalscripts/user_data.php
 sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
-sudo chmod 755 /usr/share/zabbix/map_ztarline.php
-sudo chown root:root /usr/share/zabbix/map_ztarline.php
 ```
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
