@@ -45,7 +45,7 @@
 
 Скачиваем скрипт в домашнюю директорию ubuntu
 ```
-sudo git clone https://github.com/Fraso777/ZtarLine.git
+sudo git clone https://github.com/iFraso-dev/ZtarLine.git
 ```
 переходим в скаченную директорию
 ```
