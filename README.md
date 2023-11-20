@@ -66,6 +66,8 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 ```
 sudo nano /usr/lib/zabbix/externalscripts/user_data.php
 ```
+укажите:
+-- $user_login = 'Your@email.com';
 
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
