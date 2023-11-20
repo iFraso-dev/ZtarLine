@@ -1,4 +1,3 @@
-
 <h1 align="center">Мониторинг сигнализации Starline</h1>
 <p clear="both">
 <div align="center">
