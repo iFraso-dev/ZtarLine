@@ -1,9 +1,10 @@
+
 <h1 align="center">Мониторинг сигнализации Starline</h1>
 <p clear="both">
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://fraso777.ru/data/Ztar-Line-logo.png">
-  <img alt="ZtarLine" src="http://fraso777.ru/data/Ztar-Line-logo.png" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cloud.mail.ru/public/W6iB/sgfcSLwR8">
+  <img alt="ZtarLine" src="https://cloud.mail.ru/public/W6iB/sgfcSLwR8" width="600">
 </picture>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.2.5 or later-blue" />
