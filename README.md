@@ -62,6 +62,11 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/ztarline.php
 sudo chmod 755 /usr/lib/zabbix/externalscripts/user_data.php
 sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 ```
+отредактируйте файл "user_data.php". Внесите данные, полученные в разделе ## AppId и Secret Starline
+```
+sudo nano /usr/lib/zabbix/externalscripts/user_data.php
+```
+
 <p align="right">(<a href="#readme-top">Вверх</a>)</p>
 </br>
 
