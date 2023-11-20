@@ -76,7 +76,6 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 
 Нажмите "Создать приложение" и в окне "Новое приложение" задайте "Имя приложения". Далее "СОХРАНИТЬ".
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://thumb.cloud.mail.ru/weblink/thumb/xw1/W6iB/sgfcSLwR8">
   <img alt="ZtarLine" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/W6iB/sgfcSLwR8" width="600">
 </picture>
 
