@@ -72,7 +72,14 @@ sudo chown root:root /usr/lib/zabbix/externalscripts/user_data.php
 Войдите в личный кабинет [My Starline](https://my.starline.ru/developer) в раздел [Разработчикам](https://my.starline.ru/developer). 
 Заполняете форму для получения AppId и Secret. Укажите цель полуения доступа к API (в нашем случае для интеграции в систему мониторинга).
 
-После одобрения заявки будет доступна функция.  
+После одобрения заявки будет доступен раздел "Разработчикам".
+
+Нажмите "Создать приложение" и в окне "Новое приложение" задайте "Имя приложения". Далее "СОХРАНИТЬ".
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://thumb.cloud.mail.ru/weblink/thumb/xw1/W6iB/sgfcSLwR8">
+  <img alt="ZtarLine" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/W6iB/sgfcSLwR8" width="600">
+</picture>
+
 
 
 ## Настройка Zabbix
